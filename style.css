@@ -1,0 +1,23 @@
+body {
+  padding-top: 70px;
+  text-align: center;
+}
+
+footer {
+  background-color: #40343f;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+}
+
+main {
+  margin-bottom: 40px;
+}
+
+.card-text, h3, strong {
+  text-align: left;
+}
+
+form {
+  text-align: left;
+}
